@@ -1,0 +1,6 @@
+com\arief\mvc\webcontrollers\ListUserController.class
+com\arief\mvc\dao\UserDAOimpl.class
+com\arief\mvc\webcontrollers\HomeController.class
+com\arief\mvc\dao\UserDAO.class
+com\arief\mvc\webcontrollers\FormController.class
+com\arief\mvc\domain\User.class
